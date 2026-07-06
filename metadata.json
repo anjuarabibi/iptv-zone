@@ -1,0 +1,6 @@
+{
+  "name": "IPTVZONE",
+  "description": "Complete IPTV M3U streaming app with premium dark UI, advanced Admin and User panels, sticky video player, and auto playlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
